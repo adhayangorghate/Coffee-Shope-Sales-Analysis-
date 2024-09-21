@@ -1,9 +1,7 @@
-![Screenshot 2024-09-21 175555](https://github.com/user-attachments/assets/d0ed8cdd-7a20-46c3-8fef-4b0b7068d12a)# Coffee-Shope-Sales-Analysis-
+# Coffee-Shope-Sales-Analysis-
 Coffee Shop Sales Analysis Dashboard
 
-![Uploading Screenshot 2024-09-21 175555.png…]()
-
-
+![Screenshot 2024-09-21 175555](https://github.com/user-attachments/assets/d0ed8cdd-7a20-46c3-8fef-4b0b7068d12a)
 **Coffee Shop Sales Analysis Dashboard**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
